@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Your Collection #0",
+    "symbol": "YC",
+    "description": "Remember to replace this description",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Mummy"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eyes"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Long Hair"
+      },
+      {
+        "trait_type": "Lower face",
+        "value": "Fangs"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Scarf"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Your Collection #1",
+    "symbol": "YC",
+    "description": "Remember to replace this description",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Shadow"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Leather"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Patch"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Lower face",
+        "value": "Pipe"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Silver Chain"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Your Collection #2",
+    "symbol": "YC",
+    "description": "Remember to replace this description",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3D Glasses"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald"
+      },
+      {
+        "trait_type": "Lower face",
+        "value": "Teeth"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Bat Wings"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Your Collection #3",
+    "symbol": "YC",
+    "description": "Remember to replace this description",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Masquerade"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cap"
+      },
+      {
+        "trait_type": "Lower face",
+        "value": "Teeth"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Scarf"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Your Collection #4",
+    "symbol": "YC",
+    "description": "Remember to replace this description",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 4,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Maroon"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eyes"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cap"
+      },
+      {
+        "trait_type": "Lower face",
+        "value": "Teeth"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Red Cape"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Your Collection #5",
+    "symbol": "YC",
+    "description": "Remember to replace this description",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Glass"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Patch"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald"
+      },
+      {
+        "trait_type": "Lower face",
+        "value": "Teeth"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Red Cape"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Your Collection #6",
+    "symbol": "YC",
+    "description": "Remember to replace this description",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Patch"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald"
+      },
+      {
+        "trait_type": "Lower face",
+        "value": "Fangs"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Red Stone Ring"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Your Collection #7",
+    "symbol": "YC",
+    "description": "Remember to replace this description",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 7,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Eyes"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Happy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald"
+      },
+      {
+        "trait_type": "Lower face",
+        "value": "Moustache"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Tie"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Your Collection #8",
+    "symbol": "YC",
+    "description": "Remember to replace this description",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 8,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Golem"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3D Glasses"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Bald"
+      },
+      {
+        "trait_type": "Lower face",
+        "value": "Fangs"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Scarf"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "Your Collection #9",
+    "symbol": "YC",
+    "description": "Remember to replace this description",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Hands",
+        "value": "Naked"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "3D Glasses"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Long Hair"
+      },
+      {
+        "trait_type": "Lower face",
+        "value": "Pizza"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Tie"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+          "share": 100
+        }
+      ]
+    }
+  }
+]
